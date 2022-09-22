@@ -1,3 +1,6 @@
+<h1 align="left">Olá, sou Caio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px"></h1>
+<p align="center"></p>
+
 <h4 align="left">- 🎯 Desenvolvedor Front-end<br>- 🌱 Aprendendo sempre novas ferramentas<br>- 📚 Estudando: JavaScript | ReactJS |  NodeJS | ExpressJS</h4>
 
 ###
