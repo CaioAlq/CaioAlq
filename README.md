@@ -3,7 +3,7 @@
 
 ###
 
-<h4 align="left">- 🎯 Desenvolvedor Front-end<br>- 🌱 Aprendendo sempre novas ferramentas<br>- 📚 Estudando: JavaScript | ReactJS |  NodeJS | ExpressJS</h4>
+<h4 align="left">- 🎯 Desenvolvedor Front-end<br>- 🌱 Aprendendo sempre novas ferramentas<br>- 📚 Estudando no momento: JavaScript | Python | ReactJS |  NodeJS | ExpressJS</h4>
 
 ###
 
