@@ -1,13 +1,17 @@
 <h1 align="left">Olá, sou Caio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px"></h1>
-<p align="center"></p>
+<p align="left"></p>
+
+###
 
 <h4 align="left">- 🎯 Desenvolvedor Front-end<br>- 🌱 Aprendendo sempre novas ferramentas<br>- 📚 Estudando: JavaScript | ReactJS |  NodeJS | ExpressJS</h4>
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GithubStats&username=CaioAlq" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=CaioAlq" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&custom_title=GithubStats&username=CaioAlq" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default&card_width=320&langs_count=5&theme=monokai&hide_border=true&username=CaioAlq" height="180" alt="languages graph"  />
 </div>
 
 ###
