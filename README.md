@@ -9,10 +9,7 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=GithubStats&username=CaioAlq" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default&card_width=320&langs_count=5&theme=dark&hide_border=true&username=CaioAlq" height="180" alt="languages graph"  />
-</div>
+<img src="https://github-stats-alpha.vercel.app/api?username=CaioAlq&cc=transparent&tc=fff&ic=4d237f&bc=000" />
 
 ###
 
