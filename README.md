@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=CaioAlq&cc=transparent&tc=fff&ic=4d237f&bc=000" />
+<img src="https://github-stats-alpha.vercel.app/api?username=CaioAlq&cc=transparent&tc=fff&ic=b1c0dc&bc=000" />
 
 ###
 
