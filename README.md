@@ -8,7 +8,7 @@ Full-stack developer from Brazil. I like building things, tinkering with my own 
 
 This is my current stack, but I'm comfortable adopting whatever tools a project requires.
 
-### Reach me
+### Contact me
 
 <a href="https://www.linkedin.com/in/caio-alq/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
